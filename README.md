@@ -1,0 +1,2 @@
+# release-process
+Release strategy
